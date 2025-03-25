@@ -1,0 +1,36 @@
+aggr: sum
+batch_size: 64
+float_precision: 32
+hc:
+- 1
+- 8
+- 16
+- 16
+- 32
+- 64
+- 64
+- 32
+- 16
+- 16
+- 8
+- 1
+heads: 1
+loss_alpha: 0.0
+lr: 0.0007
+model_name: EE-GNN_additive_edge_updates
+num_epochs: 100
+optim: Adam
+tr_names:
+- 50aps_10ues
+- 60aps_15ues
+- 75aps_25ues
+- 100aps_30ues
+val_names:
+- 50aps_10ues
+- 60aps_15ues
+- 75aps_25ues
+- 100aps_30ues
+- 200aps_10ues
+- 200aps_20ues
+- 200aps_30ues
+- 200aps_40ues
