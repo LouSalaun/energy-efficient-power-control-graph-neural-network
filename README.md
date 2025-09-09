@@ -1,6 +1,6 @@
 # Energy Efficient Power Control Graph Neural Network
 
-This repository contains the code of our paper "Bigraph GNN-Aided Energy Efficiency Maximization for Cell-Free Massive MIMO", in *IEEE International Conference on Machine Learning for Communication and Networking* (ICMLCN), 2025. The datasets are available at this address: https://doi.org/10.6084/m9.figshare.28639649.
+This repository contains the code of our paper ["Bigraph GNN-Aided Energy Efficiency Maximization for Cell-Free Massive MIMO"](https://doi.org/10.1109/ICMLCN64995.2025.11140294), in *IEEE International Conference on Machine Learning for Communication and Networking* (ICMLCN), 2025. The datasets are available at this address: https://doi.org/10.6084/m9.figshare.28639649.
 
 © 2025 Nokia\
 Licensed under the BSD 3-Clause Clear License\
